@@ -12,7 +12,7 @@ I am proficient at utilizing Figma to create Modern UI Visuals that have a great
 
 [Portfolio](https://dribbble.com/sealdy)  
 [LinkedIn](https://www.linkedin.com/in/sealtiel-dy-222132279/)  
-
+[Resume](https://github.com/SealTheTiel/SealTheTiel/blob/main/media/Dy_Resume.pdf)  
 <!--
 **SealTheTiel/SealTheTiel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
