@@ -4,7 +4,9 @@ I am **Sealtiel Dy**, currently studying Computer Science at DLSU.
 I play games on my free time and sometimes try new skills.  
 I am proficient at utilizing Figma to create Modern UI Visuals that have a great UX.
 
-- Currently, I am working on improving my Web Development skills in order to be more competent.
+Currently, I am working on improving my Web Development skills in order to be more competent.
+
+You may explore my pinned repositories as these are some of the projects I am included in my academic journey.
 
 -----
 
